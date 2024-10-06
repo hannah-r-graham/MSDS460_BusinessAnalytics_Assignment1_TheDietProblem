@@ -47,7 +47,22 @@ GPT first wanted to use the daily allotment and not week, so had to redo those. 
 -------------------------
 
 Foods and their nutritional facts:
+Food	Price per serving	Sodium (mg)	Energy (cal)	Protein (g)	Vitamin D (mcg)	Calcium (mg)	Iron (mg)	Potassium (mg)
+Juanitas Tortilla Chips	0.25	160 	150	1	0	0	0.5	0
+Bitchin’ Sauce	0.487	105	90	2	0	15	1	77
+Kirkland Plain Greek Yogurt	0.92	60	100	18	0	190	0	190
+Kirkland canned pink Salmon	1.45	240	80	17	11	9	0	320
+Kirkland Organic Black Beans	0.4895	85	110	7	0	40	1.7	410
+
 
 Constraints:
 
+Component	Max/Min	Daily Amount and Measure	Weekly Conversion
+Sodium	Maximum	5,000 milligrams (mg)	35,0000 milligrams (mg)
+Energy	Minimum	2,000 Calories (kilocalories, kcal)	14,000 Calories (kilocalories, kcal)
+Protein	Minimum	50 grams (g)	350 grams (g)
+Vitamin D	Minimum	20 micrograms (mcg)	140 micrograms (mcg)
+Calcium	Minimum	1,300 milligrams (mg)	9,100 milligrams (mg)
+Iron	Minimum	18 milligrams (mg)	126 milligrams (mg)
+Potassium	Minimum	4,700 milligrams (mg)	32,900 milligrams (mg)
 
